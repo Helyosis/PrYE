@@ -18,3 +18,5 @@ cards. If the player does not want to play a card(s) to the Proof—or if
 the player cannot play a card(s) to the Proof—the player must discard.
 At the end of each player’s turn, they will always have five cards in
 their hand.
+
+Coucou
